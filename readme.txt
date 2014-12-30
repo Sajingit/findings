@@ -11,3 +11,8 @@ sudo npm install npm -g --> install latest npm (Node package module)
 Nodejs and Express and mongoDb tutorials
 -----------------------------------------
 http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+
+
+Nice Angular theory
+-------------------
+http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/
