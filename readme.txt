@@ -23,3 +23,8 @@ Nice Express/Node Freek totorial (Great One!)
 
 http://codeforgeek.com/2014/10/express-complete-tutorial-part-1/
 https://www.udemy.com/blog/node-js-express-tutorial/ 
+
+
+PHP interview Questions
+-----------------------
+http://www.pcds.co.in/php-interview-questions-and-answer.php
