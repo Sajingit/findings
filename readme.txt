@@ -28,3 +28,10 @@ https://www.udemy.com/blog/node-js-express-tutorial/
 PHP interview Questions
 -----------------------
 http://www.pcds.co.in/php-interview-questions-and-answer.php
+
+----FOR MYSQLi ---http://www.pontikis.net/blog/how-to-use-php-improved-mysqli-extension-and-why-you-should
+------------------http://www.phpknowhow.com/mysql/transactions/
+------------------http://php.net/manual/en/mysqli.quickstart.multiple-statement.php
+
+http://phpduck.com/oop-basics-in-php-5/
+http://career.guru99.com/top-50-mysql-interview-questions-answers/
