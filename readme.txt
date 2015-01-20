@@ -21,9 +21,10 @@ http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nod
 Nice Express/Node Freek totorial (Great One!)
 -------------------------------
 
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 http://codeforgeek.com/2014/10/express-complete-tutorial-part-1/
 https://www.udemy.com/blog/node-js-express-tutorial/ 
-
+https://scotch.io/tutorials
 
 PHP interview Questions
 -----------------------
@@ -34,4 +35,5 @@ http://www.pcds.co.in/php-interview-questions-and-answer.php
 ------------------http://php.net/manual/en/mysqli.quickstart.multiple-statement.php
 
 http://phpduck.com/oop-basics-in-php-5/
+
 http://career.guru99.com/top-50-mysql-interview-questions-answers/
