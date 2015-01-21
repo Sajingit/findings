@@ -37,3 +37,8 @@ http://www.pcds.co.in/php-interview-questions-and-answer.php
 http://phpduck.com/oop-basics-in-php-5/
 
 http://career.guru99.com/top-50-mysql-interview-questions-answers/
+
+
+Geat Puzzle Questions
+--------------------
+https://www.easycalculation.com/puzzles/hard/index.php
