@@ -6,7 +6,9 @@ The apt-get command is a powerful command-line tool, which works with Ubuntu's A
 
 sudo npm install npm -g --> install latest npm (Node package module)
 
-
+NodeJs Beginners Guide
+----------------------
+http://www.acfo.org/www/uploads/documents/33e2d962a6da1d1124e7c23a9fb23972.pdf
 
 Nodejs and Express and mongoDb tutorials
 -----------------------------------------
