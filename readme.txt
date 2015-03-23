@@ -9,10 +9,13 @@ sudo npm install npm -g --> install latest npm (Node package module)
 NodeJs Beginners Guide
 ----------------------
 http://www.acfo.org/www/uploads/documents/33e2d962a6da1d1124e7c23a9fb23972.pdf
+https://hackhands.com/delving-node-js-express-web-framework/
 
 Nodejs and Express and mongoDb tutorials
 -----------------------------------------
 http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications --- Nice one
+http://mongoosejs.com/docs/2.7.x/docs/finding-documents.html -- informative
 
 
 Nice Angular theory
@@ -49,4 +52,14 @@ Nodejs file upload using multer
 ------------------------------
 http://www.e-zest.net/blog/how-to-handle-file-upload-with-node-and-express-4-0/
 
+Express js and form validation
+------------------------------
+http://blog.ijasoneverett.com/2013/04/form-validation-in-node-js-with-express-validator/
+
+Ndejs+mongoose:
+
+https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/
+
+
+http://www.quietless.com/kitchen/building-a-login-system-in-node-js-and-mongodb/--- nice concepts
 
