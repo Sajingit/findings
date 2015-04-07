@@ -63,3 +63,14 @@ https://hackhands.com/mongodb-crud-mvc-way-with-passport-authentication/
 
 http://www.quietless.com/kitchen/building-a-login-system-in-node-js-and-mongodb/--- nice concepts
 
+
+this in javasript
+---------------
+
+http://unschooled.org/2012/03/understanding-javascript-this/
+
+
+AngularJs Tuto
+...............
+
+http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan
