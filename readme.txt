@@ -80,3 +80,9 @@ Extjs
 .....
 
 http://accident112.hexagramciam.net/burns/e/extjs-guide-for-beginners-4156693.pdf
+
+
+
+java Servler:
+--------
+http://tutorialspointexamples.com/servlet-architecture-overview-in-java/
