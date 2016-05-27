@@ -86,3 +86,6 @@ http://accident112.hexagramciam.net/burns/e/extjs-guide-for-beginners-4156693.pd
 java Servler:
 --------
 http://tutorialspointexamples.com/servlet-architecture-overview-in-java/
+http://www.javatpoint.com/servlet-tutorial
+http://javabeginnerstutorial.com/servlet-2/java-servlet-container-tutorial-for-beginners/
+http://javabeginnerstutorial.com/servlet-2/how-to-write-hello-world-program-in-servlet/
