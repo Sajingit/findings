@@ -91,3 +91,4 @@ http://javabeginnerstutorial.com/servlet-2/java-servlet-container-tutorial-for-b
 http://javabeginnerstutorial.com/servlet-2/how-to-write-hello-world-program-in-servlet/
 Examples
 http://www.journaldev.com/1877/java-servlet-tutorial-with-examples-for-beginners
+http://www.journaldev.com/2015/servlet-interview-questions-and-answers#web-server-vs-application-server
