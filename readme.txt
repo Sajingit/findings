@@ -76,6 +76,7 @@ AngularJs Tuto
 http://www.slideshare.net/proshailendra/angular-js-interview-questions-answers-by-shailendra-chauhan
 https://material.angularjs.org/1.0.3/getting-started
 https://angular-ui.github.io/bootstrap/
+https://www.eduonix.com/blog/web-programming-tutorials/12-must-know-angularjs-frameworks-to-develop-your-next-generation-apps/
 
 
 Extjs
