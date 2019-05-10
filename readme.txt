@@ -1,5 +1,7 @@
 apt -- means 
 
+resetSizeDropDown
+
 The apt-get command is a powerful command-line tool, which works with Ubuntu's Advanced Packaging Tool (APT)performing such functions as installation of new software packages, upgrade of existing software packages, updating of the package list index, and even upgrading the entire Ubuntu system.
 
 
